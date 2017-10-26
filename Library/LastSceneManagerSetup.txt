@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HappyDiwaliPeeps.unity
+  isLoaded: 1
+  isActive: 1
